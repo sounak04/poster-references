@@ -4,4 +4,4 @@
 [4] E. H. D'Hollander et al., "Exploring Large Language Models for Verilog Hardware Design Generation," in 2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), 2024, pp. 111-114.
 [5] P. Vijayaraghavan, L. Shi, E. Degan, and X. Zhang, "CIRCUITSYNTH: Leveraging Large Language Models for Circuit Topology Synthesis," in 2024 IEEE LLM Aided Design Workshop (LAD), 2024, pp. 95-97.
 [6] G. Chen et al., "LLM-Enhanced Bayesian Optimization for Efficient Analog Layout Constraint Generation," arXiv preprint arXiv:2406.05250, 2024.
-[47 S. K. Jha et al., "Automated Synthesis of Hardware Designs using Symbolic Feedback and Grammar-Constrained Decoding in Large Language Models," in 2024 IEEE National Aerospace and Electronics Conference (NAECON), 2024, pp. 95-97.
+[7] S. K. Jha et al., "Automated Synthesis of Hardware Designs using Symbolic Feedback and Grammar-Constrained Decoding in Large Language Models," in 2024 IEEE National Aerospace and Electronics Conference (NAECON), 2024, pp. 95-97.
